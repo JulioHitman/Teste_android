@@ -30,4 +30,11 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/com/example/models/RestfulResource.java</name>
+			<type>1</type>
+			<location>/home/rbs2/Downloads/RestfulResource.java</location>
+		</link>
+	</linkedResources>
 </projectDescription>

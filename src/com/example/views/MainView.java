@@ -1,13 +1,12 @@
 package com.example.views;
 
-import com.example.teste.R;
-
-import android.app.Activity;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 
-public class MainView extends Activity {
+import com.example.teste.R;
+
+public class MainView extends BaseView {
 
 	protected EditText email;
 	protected EditText password;

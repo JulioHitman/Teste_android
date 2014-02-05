@@ -15,6 +15,7 @@
         android:hint="UserEmail"/>
     <EditText 
         android:id="@+id/password"
+        android:inputType="textPassword"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:hint="Password"/>
